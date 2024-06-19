@@ -27,7 +27,7 @@ The project involves creating a fully responsive landing page using Bootstrap 5.
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bootstrap5-landing-page.git
+   git clone https://github.com/goosekiing/bootstrap5-landing-page.git
    ```
 2. Open `index.html` in your web browser to view the landing page.
 
